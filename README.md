@@ -1,30 +1,11 @@
 # Disney #
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92226321-012b-4815-a415-72381615950e/deploy-status)](https://disney.netlify.app/deploys)
 
-![disney](images/disney.png)
-
-```
-deliverable/
-├── index.html
-├── styles.less
-├── scripts.js
-└── src/
-    ├── favicon.svg
-    ├── favicon.ico
-    ├── favicon-16.png
-    ├── favicon-32.png
-    ├── apple-touch-icon.png
-    ├── android-chrome-192x192.png
-    ├── android-chrome-512x512.png
-    └── site.webmanifest
-```
-
+![disney](images/disney.jpg)
 
 ### Structure:
 
 * Single Page Application (SPA)
-* JavaScript processed through Babel
-* Less and CSS processed through Webpack
 
 ---
 
@@ -32,5 +13,3 @@ deliverable/
 
 * Clone the repository [https://github.com/timhjellum/disney](git clone https://github.com/timhjellum/disney.git)
 * `cd disney`
-* `npm install`
-* `run npm start`
