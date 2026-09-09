@@ -332,13 +332,13 @@
 
     <div class="steps">
       <div class="card"><div class="num">01</div><div class="title">Product Classification</div><div class="desc">Developed a detailed product grouping and classification system based on how couples actually plan.</div></div>
-      <div class="card"><div class="num">02</div><div class="title">Content Inventory</div><div class="desc">Performed a full content inventory across Weddings, Honeymoons, and Meetings.</div></div>
+      <div class="card"><div class="num">02</div><div class="title">Content Inventory</div><div class="desc">Conducted comprehensive content inventories to catalog existing digital assets, assess content structure and quality, and establish a foundation for information architecture and migration.</div></div>
       <div class="card"><div class="num">03</div><div class="title">Migration Strategy</div><div class="desc">Facilitated migration strategy sessions to ensure content was organized and transitioned successfully.</div></div>
       <div class="card"><div class="num">04</div><div class="title">Content Audit</div><div class="desc">Performed a comprehensive product and services content audit across all three sites.</div></div>
       <div class="card"><div class="num">05</div><div class="title">User-Centric Taxonomy</div><div class="desc">Organized the audited content into a taxonomy structured around user needs, not internal categories.</div></div>
-      <div class="card"><div class="num">06</div><div class="title">Stakeholder Requirements</div><div class="desc">Facilitated requirements-gathering sessions with business stakeholders to shape scope and priorities.</div></div>
-      <div class="card"><div class="num">07</div><div class="title">Sitemaps &amp; Wireframes</div><div class="desc">Built highly detailed sitemaps and wireframes translating the new taxonomy into a navigable structure.</div></div>
-      <div class="card"><div class="num">08</div><div class="title">Persona Development</div><div class="desc">Executed an extensive persona process to ground every decision in real user needs.</div></div>
+      <div class="card"><div class="num">06</div><div class="title">Stakeholder Alignment</div><div class="desc">Facilitated Discovery, Requirements Analysis, Stakeholder Interviews, and Iterative Design to align business objectives with user needs.</div></div>
+      <div class="card"><div class="num">07</div><div class="title">Information Architecture (IA)</div><div class="desc">Built highly detailed sitemaps and wireframes translating the new taxonomy into a navigable structure.</div></div>
+      <div class="card"><div class="num">08</div><div class="title">User Personas</div><div class="desc">Developed user personas to define target users, clarify their goals, and guide user-centered design decisions.</div></div>
     </div>
   </div>
 
